@@ -4,7 +4,7 @@
 $myPerf =  _PerfGetProcessLoad("Idle")
 Local $i = 0
 While $i < 20
-    $monPerf.Refresh_
+    $myPerf.Refresh_
     ConsoleWrite($myPerf.PercentProcessorTime & @CRLF)
     Sleep(1000)
 	$i += 1
