@@ -1,0 +1,1 @@
+ftp://ftp.mozilla.org/pub/mozilla.org/firefox/releases/16.0/win32/fr/
